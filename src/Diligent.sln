@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diligent", "Diligent.csproj", "{C58D22BB-7221-463B-800E-1517DA18CE8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58D22BB-7221-463B-800E-1517DA18CE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58D22BB-7221-463B-800E-1517DA18CE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58D22BB-7221-463B-800E-1517DA18CE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58D22BB-7221-463B-800E-1517DA18CE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7681D4CE-1E47-4610-8BB3-BF7C28EA0D0C}
+	EndGlobalSection
+EndGlobal
