@@ -16,12 +16,8 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- task: CmdLine@2
-  inputs:
-    script: |
-      echo Write your commands here $(BuildID)
-      
-      echo Hello world
+- script:  echo Write your commands here $(Build.BuildNumber)
+
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
